@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risca Revan Suasmara</h1>
-<h3 align="center">My name is Risca Revan Suasmara and I am a software developer based in Malang city, Indonesia. I was born on January 22, 2005, and as a young professional, I am always eager to learn about new technology. I have already gained valuable experience in the field of software development by working for a year at PT Autochem Industry as a mobile app developer. Overall, I am a driven and dedicated software developer who is passionate about staying up-to-date with the latest technologies and delivering high-quality solutions.</h3>
+<h3 align="center">My name is Risca Revan Suasmara and I am a software developer based in Malang city, Indonesia. I was born on January 22, 2005, and as a young professional, I am always eager to learn about new technology.</h3>
 
 - 📫 How to reach me **riscarevan2201@gmail.com**
 
